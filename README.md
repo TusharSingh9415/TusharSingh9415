@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tushar singh</h1>
+<h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <h3 align="center">I am a detail orientated person.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsingh9415&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsingh9415" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Educational Website](http://www.topprhub.com/)
 
-- 🌱 I’m currently **my third year of studying at Institute Of Management Studies and Engineering College(IMSEC) Ghaziabad, UttarPradesh India**
+- 🌱 I’m currently in **my third year of studying at Institute Of Management Studies and Engineering College(IMSEC) Ghaziabad, UttarPradesh India**
 
 - 👨‍💻 All of my projects are available at [https://tusharsingh.topprhub.com/](https://tusharsingh.topprhub.com/)
 
